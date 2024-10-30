@@ -81,7 +81,7 @@ The project contains two main scripts:
 - India and Pakistan: Conflict
 
 **1971**
-- India and Bangladesh: Conflict
+- India and Bangladesh: Alliance
 
 **1999**
 - India and Pakistan: Conflict
